@@ -1,0 +1,15 @@
+{
+    "name": "ekeyte/ericlog",
+    "description": "A simple PSR-3 logger interface",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Keyte",
+            "email": "ekeyte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Ericlog\\": "src/" }
+    }
+}
